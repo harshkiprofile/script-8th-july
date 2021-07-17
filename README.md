@@ -12,6 +12,7 @@ to interact with browser and move the chromedriver.exe file to the main project 
                                     pip install openpyxl
                                     
 If that does not work for you please run the following commands:
+
                                     py -m pip install selenium
                                     py -m pip install pandas
                                     py -m pip install openpyxl
